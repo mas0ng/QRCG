@@ -11,17 +11,9 @@
 
 ## Installation
 
-### From the Chrome Web Store
-
-1. Navigate to the [Chrome Web Store](https://chrome.google.com/webstore).
-2. Search for **QRCG**.
-3. Click **Add to Chrome** and then **Add extension**.
-
-### Manual Installation
-
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/yourusername/qrcg.git
+   git clone https://github.com/mas0ng/qrcg.git
    ```
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable Developer mode (toggle in the top right corner).

@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "QRCG",
+  "version": "1.0",
+  "description": "Generates a QR code for the current page URL.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
